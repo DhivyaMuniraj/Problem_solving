@@ -1,9 +1,9 @@
 // 1.get an input 
  // 2.declare a function
- //declare a empty string variable
-// 3.run two for loops one for rows and another for columns
-// 4.just add the star inside the second loop in string variable
-// 5.return the function
+ //3.declare a empty string variable
+// 4.run two for loops one for rows and another for columns
+// 5.just add the star inside the second loop in string variable
+// 6.return the string variable
 
 let input=5;
 function star_pattern(inputs){
